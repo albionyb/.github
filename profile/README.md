@@ -10,8 +10,8 @@ I build **convenience Android apps**: small, simple tools that make everyday thi
 
 If my apps help you, you can support me on Ko-fi:
 
-[
+
 
 ![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)
 
-](https://ko-fi.com/albionyb)
+(https://ko-fi.com/albionyb)
